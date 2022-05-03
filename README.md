@@ -4,7 +4,7 @@
   
 - 🔭 Atualmente estou trabalhando com desenvolvimento Web.
 - 🏗 Proprietário da empresa Wiquip.
-- 🌱 Estou estuando Analise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
+- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
 - 😄 Pronomes: Ele/Dele.
 -->
 
