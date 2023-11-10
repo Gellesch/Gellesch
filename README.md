@@ -1,6 +1,6 @@
 ### Olá! Eu sou o William 👋 <h1>
 
- <p>Um entusiasta da tecnologia à mais de 16 anos, e apaixonado por transformar ideias em realidade. </p>
+ <p>Um entusiasta da tecnologia há mais de 16 anos, e apaixonado por transformar ideias em realidade. </p>
  <p></p>Acredito que a tecnologia tem o poder de mudar o mundo e estou animado para fazer parte dessa revolução.
  Sinta-se à vontade para dar uma olhada nos meus repositórios e entrar em contato se quiser colaborar em um projeto!</p>
 
