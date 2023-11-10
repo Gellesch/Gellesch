@@ -12,8 +12,6 @@
 - 🏗 Proprietário da empresa Wiquip.
 - 🚀 Formado em Analise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
 
--->
-
   ##
   
 <div align="center">
