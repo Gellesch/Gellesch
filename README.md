@@ -1,11 +1,17 @@
 ### Olá! Eu sou o William 👋 <h1>
 
+ <p>Um entusiasta da tecnologia à mais de 16 anos, e apaixonado por transformar ideias em realidade. </p>
+ <p></p>Acredito que a tecnologia tem o poder de mudar o mundo e estou animado para fazer parte dessa revolução.
+ Sinta-se à vontade para dar uma olhada nos meus repositórios e entrar em contato se quiser colaborar em um projeto!</p>
+
  ###
   
-- 🔭 Atualmente estou trabalhando com desenvolvimento Web.
+- 💡Front-End: HTML5, CSS, Tailwind, SaSS, BootStrap, JavaScrip.
+- 💻Back-End: Node.Js, Python, Java, MySQL.
+- 🌎Tools: SASS, Git
 - 🏗 Proprietário da empresa Wiquip.
-- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
-- 😄 Pronomes: Ele/Dele.
+- 🚀 Formado em Analise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
+
 -->
 
   ##
@@ -19,10 +25,13 @@
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Will-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Will-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Will-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Will-C++" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Will-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Will-C++" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Will-C++" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Will-C++" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
     
   ##
