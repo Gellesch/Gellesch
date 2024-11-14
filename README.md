@@ -12,7 +12,11 @@
 - 🏗 Proprietário da empresa Wiquip.
 - 🚀 Formado em Analise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
 
-  ##
+  ### 🚀 Projetos principais
+ 
+ - [Projeto 1](https://gellesch.github.io/Projetos/RocketSeat/Focus%20Timer%202.0/) - Este site combina o método Pomodoro com ferramentas de bem-estar, oferecendo temporizador para sessões de foco, rádio online, bloco de notas, previsão do tempo, modo claro/escuro, relógio e sons relaxantes, criando um ambiente ideal para estudos ou trabalho.
+
+  ###
   
 <div align="center">
   <a href="https://github.com/gellesch">
